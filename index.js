@@ -1,1 +1,1 @@
-1.console.log("Dfdsf");
+let b = "dfdf";
