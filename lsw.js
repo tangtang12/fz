@@ -1,2 +1,2 @@
-let a = "xs";
+let a = "lsw";
 console.log(a);
